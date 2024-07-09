@@ -1,4 +1,4 @@
-# Computational and Deep Learning projects
+# MIMIC machine learning projects
 This repository contains scripts for two projects related to predicting patient outcome data using real hospital data.
 
 - Project 1 focuses on predicting whether a patient will die based on their demographics and vitals using KNN and SVC
